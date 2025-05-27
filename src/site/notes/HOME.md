@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T22:37:23.328+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T22:41:52.587+09:00"}
 ---
 
-# 👋 Welcome to my testbed
+# 👋 Welcome to My Testbed
 
 > [!note] **주인장 소개**
 > Miss Digita1p0et a.k.a. Miss Greedy 😜
