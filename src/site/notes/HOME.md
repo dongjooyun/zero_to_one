@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T22:32:14.866+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T22:37:23.328+09:00"}
 ---
 
 # 👋 Welcome to my testbed
@@ -8,8 +8,9 @@
 > Miss Digita1p0et a.k.a. Miss Greedy 😜
 > 지속 가능하도록 하는 사람
 > 베스트 솔루션에 다가가는 사람
+> 
+![Mr.greedy.png|264x252](/img/user/Mr.greedy.png)
 
-![Greedy1.webp|330x315](/img/user/Greedy1.webp)
 
 이곳은 저의 기술 블로그입니다.
 아래에서 카테고리별로 글을 찾아볼 수 있습니다.
