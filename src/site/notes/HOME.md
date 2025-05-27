@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"noteIcon":"","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T22:41:52.587+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T22:53:16.942+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
