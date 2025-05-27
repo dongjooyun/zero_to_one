@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T21:48:20.690+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"created":"2025-05-27T13:25:46.129+09:00","updated":"2025-05-27T22:01:40.810+09:00"}
 ---
 
 # 👋 환영합니다!
