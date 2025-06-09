@@ -85,13 +85,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endif %}
     {% include "components/references.njk" %}
     {% include "components/timestamps.njk" %}
-    {% for imp in dynamics.common.footer %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.notes.footer %}
-      {% include imp %}
-    {% endfor %}
-    {%include "components/lucideIcons.njk"%}
     <script src="https://giscus.app/client.js"
         data-repo="dongjooyun/zero_to_one"
         data-repo-id="R_kgDOOxJ2iw"
@@ -102,11 +95,19 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="preferred_color_scheme"
+        data-theme="noborder_gray"
         data-lang="ko"
         data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
+    {% for imp in dynamics.common.footer %}
+      {% include imp %}
+    {% endfor %}
+    {% for imp in dynamics.notes.footer %}
+      {% include imp %}
+    {% endfor %}
+    {%include "components/lucideIcons.njk"%}
+    
   </body>
 </html>
