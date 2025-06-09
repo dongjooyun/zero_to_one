@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-09T19:19:21.952+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-09T19:39:10.582+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
 
-> [!note] ### **주인장 소개**
+> [!note] **주인장 소개**
 > *Hello World, I'm Miss.Digita1p0et.*
 > 지속 가능하도록 고민하는 사람
 > 베스트 솔루션에 다가가는 사람
 > 
 > 
-![Mr.greedy.png|264x252](/img/user/Mr.greedy.png)
+![Mr.greedy.png|219x209](/img/user/Mr.greedy.png)
 
 
 개발 관련 시행착오 흔적들을 기록하는 공간입니다.
