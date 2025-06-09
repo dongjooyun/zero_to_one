@@ -14,13 +14,18 @@ body {
 
 /* giscus 댓글 영역을 본문 폭에 맞춰 중심 정렬 */
 .giscus {
-  max-width: 700px; /* 예: 본문 최대 폭 CSS 변수 */
+  max-width: 100%;
+  // max-width: 700px; /* 예: 본문 최대 폭 CSS 변수 */
   width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
   margin: 0 auto;
-  padding: 0 1rem; /* 여백 추가 가능 */
 }
 
-/* iframe 내부도 부모 폭에 맞게 조정 */
+/* Giscus 내부 iframe 강제 폭 지정 */
 .giscus iframe.giscus-frame {
   width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
 }

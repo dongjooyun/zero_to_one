@@ -93,22 +93,23 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
-    
-    <script src="https://giscus.app/client.js"
-        data-repo="dongjooyun/zero_to_one"
-        data-repo-id="R_kgDOOxJ2iw"
-        data-category="General"
-        data-category-id="DIC_kwDOOxJ2i84CrO01"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="noborder_gray"
-        data-lang="ko"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+    <div class="giscus">
+      <script src="https://giscus.app/client.js"
+          data-repo="dongjooyun/zero_to_one"
+          data-repo-id="R_kgDOOxJ2iw"
+          data-category="General"
+          data-category-id="DIC_kwDOOxJ2i84CrO01"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="noborder_gray"
+          data-lang="ko"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
+      </script>
+    </div>
   </body>
 </html>
