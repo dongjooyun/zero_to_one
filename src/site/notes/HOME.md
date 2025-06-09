@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-09T23:09:17.550+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-09T23:12:09.184+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
@@ -10,7 +10,7 @@
 > 베스트 솔루션에 다가가는 사람
 > 
 >
-> <img src="img/Mr.greedy.png" width="250" alt="Mr.greedy" />
+> <img src="https://e7.pngegg.com/pngimages/751/645/png-clipart-mr-greedy-mr-men-mr-clever-mr-fussy-others-heart-magenta.png" width="250" alt="Mr.greedy" />
 
 개발 관련 시행착오 흔적들을 기록하는 공간입니다.
 아래에서 카테고리별로 글을 찾아볼 수 있습니다.
