@@ -14,7 +14,7 @@ body {
 
 /* giscus 댓글 영역을 본문 폭에 맞춰 중심 정렬 */
 .giscus {
-  max-width: var(--content-width); /* 예: 본문 최대 폭 CSS 변수 */
+  max-width: 700px; /* 예: 본문 최대 폭 CSS 변수 */
   width: 100%;
   margin: 0 auto;
   padding: 0 1rem; /* 여백 추가 가능 */
