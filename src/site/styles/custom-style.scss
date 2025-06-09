@@ -1,13 +1,26 @@
 body {
-    /***
+  /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  //  background-color: white;
+  //  .content {
+  //   font-size: 14px;
+  //  }
+  //  h1 {
+  //   color: black;
+  //  }
+}
+
+/* giscus 댓글 영역을 본문 폭에 맞춰 중심 정렬 */
+.giscus {
+  max-width: var(--content-width); /* 예: 본문 최대 폭 CSS 변수 */
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 1rem; /* 여백 추가 가능 */
+}
+
+/* iframe 내부도 부모 폭에 맞게 조정 */
+.giscus iframe.giscus-frame {
+  width: 100% !important;
 }
