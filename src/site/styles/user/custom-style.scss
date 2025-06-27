@@ -43,11 +43,17 @@ h3 {
 }
 
 /* --- 코드 블록 스타일 --- */
+pre {
+  border-radius: 3px; 
+  background-color: #f0f0f0; 
+  white-space: pre-wrap; 
+  word-break: break-word;
+}
 /* pre 태그 내부의 code 태그에 적용 (주요 코드 블록) */
 pre code {
   font-size: 0.9em !important; 
   line-height: 1.4; 
-  font-family: "D2Coding", "Fira Code", monospace;
+  font-family: "D2Coding", "Fira Code", monospace !important;
 }
 
 /* --- 인라인 코드 스타일 --- */
@@ -55,11 +61,11 @@ pre code {
 :not(pre) > code {
   font-size: 0.9em !important; 
   padding: 0.2em 0.4em; 
-  border-radius: 3px; 
-  // background-color: #f0f0f0; 
+  // border-radius: 3px; 
+  background-color: #f0f0f0; 
   // color: #c7254e; 
-  white-space: pre-wrap; 
-  word-break: break-word;
+  // white-space: pre-wrap; 
+  // word-break: break-word;
 }
 
 pre {
