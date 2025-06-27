@@ -42,31 +42,29 @@ h3 {
   font-size: 1.17em !important;
 }
 
-/* --- 코드 블록 스타일 --- */
-pre {
-  border-radius: 10px; 
-  background-color: #f0f0f0;
-  white-space: pre-wrap; 
-  word-break: break-word;
+pre[class*="language-"] {
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  margin-bottom: 1.5em !important;
 }
 
-/* pre 태그 내부의 code 태그에 적용 (주요 코드 블록) */
-pre code {
-  font-size: 0.9em !important; 
-  line-height: 1.4; 
+pre[class*="language-"] code {
   font-family: "D2Coding", "Fira Code", monospace !important;
-}
-
-/* --- 인라인 코드 스타일 --- */
-/* pre 태그 외부에 있는 code 태그에 적용 (인라인 코드) */
-:not(pre) > code {
-  font-size: 0.9em !important; 
-  font-family: "D2Coding", "Fira Code", monospace !important;
-  background-color: #f0f0f0;
-}
-
-pre {
   font-size: 0.9em !important;
+  line-height: 1.6 !important;
+  background-color: #D3D3D3 !important;
+  display: block !important;
+  padding: 1.2em 1.5em !important;
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+}
+
+:not(pre) > code {
+  font-family: "D2Coding", "Fira Code", monospace !important;
+  font-size: 0.9em !important;
+  background-color: #D3D3D3 !important;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
 }
 
 p {
