@@ -42,13 +42,13 @@ h3 {
   font-size: 1.17em !important;
 }
 
-// pre, code {
-//   font-size: 0.9em; /* 예시: 현재 글꼴 크기보다 0.9배 작게 */
-// }
-
-pre code {
-  font-size: 0.9em;
+pre, code {
+  font-size: 0.9em; /* 예시: 현재 글꼴 크기보다 0.9배 작게 */
 }
+
+// pre code {
+//   font-size: 0.9em;
+// }
 
 :not(pre) > code {
   font-size: 0.9em; /* 본문 텍스트보다 살짝 작게 */
@@ -68,6 +68,10 @@ p {
 li {
   margin-bottom: 0.5em;
   font-size: 16px;
+}
+
+strong {
+  font-weight: 800;
 }
 
 /* giscus 댓글 영역을 본문 폭에 맞춰 중심 정렬 */
