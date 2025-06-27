@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-step/","title":"from 0 to 1","tags":["소개"],"noteIcon":"3","created":"2025-06-09T19:19:03.101+09:00","updated":"2025-06-09T19:57:31.376+09:00"}
+{"dg-publish":true,"permalink":"/first-step/","title":"from 0 to 1","tags":["소개"],"noteIcon":"2","created":"2025-06-09T19:19:03.101+09:00","updated":"2025-06-28T01:25:46.759+09:00"}
 ---
 
 # the ONE
