@@ -42,22 +42,28 @@ h3 {
   font-size: 1.17em !important;
 }
 
-pre, code {
-  font-size: 0.9em;
+/* --- 코드 블록 스타일 --- */
+/* pre 태그 내부의 code 태그에 적용 (주요 코드 블록) */
+pre code {
+  font-size: 0.9em !important; 
+  line-height: 1.4; 
+  /* font-family: "D2Coding", "Fira Code", monospace; */
 }
 
-// pre code {
-//   font-size: 0.9em;
-// }
-
+/* --- 인라인 코드 스타일 --- */
+/* pre 태그 외부에 있는 code 태그에 적용 (인라인 코드) */
 :not(pre) > code {
-  font-size: 0.9em; 
-  padding: 0.2em 0.4em;
-  border-radius: 3px;
+  font-size: 0.9em !important; 
+  padding: 0.2em 0.4em; 
+  border-radius: 3px; 
+  // background-color: #f0f0f0; 
+  // color: #c7254e; 
+  white-space: pre-wrap; /* 긴 인라인 코드가 줄바꿈 되도록 설정 */
+  word-break: break-word; /* 단어 단위로도 줄바꿈 가능 */
 }
 
-code {
-  font-size: 14px;
+pre {
+  font-size: 0.9em !important;
 }
 
 p {
