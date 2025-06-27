@@ -1,4 +1,11 @@
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+/* 가변 폰트용 CSS import */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.css');
+
+/* body 및 주요 요소에 폰트와 합성 방지 속성 적용 */
+body, button, input, select, textarea, table {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-synthesis: none;
+}
 
 body {
   /***
@@ -7,42 +14,38 @@ body {
    ***/
   //  background-color: white;
   //  .content {
-  //   font-size: 14px;
+  font-size: 14px;
   //  }
-  //  h1 {
-  //   color: black;
-  //  }
-}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+  }
 
-/* giscus 댓글 영역을 본문 폭에 맞춰 중심 정렬 */
-.giscus {
-  max-width: 100%;
-  // max-width: 700px; /* 예: 본문 최대 폭 CSS 변수 */
-  width: 100%;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  box-sizing: border-box;
-  margin: 0 auto;
-}
-
-/* Giscus 내부 iframe 강제 폭 지정 */
-.giscus iframe.giscus-frame {
-  width: 100% !important;
-  max-width: 100% !important;
-  box-sizing: border-box;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  font-weight: bold;
-}
-
-p {
+  p {
   margin-bottom: 1.5em;
+  }
+
+  /* giscus 댓글 영역을 본문 폭에 맞춰 중심 정렬 */
+  .giscus {
+    max-width: 100%;
+    // max-width: 700px; /* 예: 본문 최대 폭 CSS 변수 */
+    width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+
+  /* Giscus 내부 iframe 강제 폭 지정 */
+  .giscus iframe.giscus-frame {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
 }
