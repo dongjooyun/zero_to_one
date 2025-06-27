@@ -17,12 +17,34 @@ body {
   font-synthesis: none;
 
   font-size: 14px;
+
+  header {
+    margin-bottom: 1.8em;
+  }
+
+  h1 {
+    font-size: 2em !important;
+
+    /* 40px/16=2.5em */
+    img {
+      height: 32px;
+      width: auto;
+    }
+  }
+
+  h2 {
+    font-size: 1.5em !important;
+    /* 30px/16=1.875em */
+  }
+
+  h3 {
+    font-size: 1.17em !important;
+  }
+
   h1,
   h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h3
+   {
     margin-top: 1.5em;
     margin-bottom: 0.5em;
     font-weight: bold;
