@@ -46,13 +46,13 @@ pre[class*="language-"] {
   border-radius: 10px !important;
   overflow: hidden !important;
   margin-bottom: 1.5em !important;
+  background-color: #808080 !important;
 }
 
 pre[class*="language-"] code {
   font-family: "D2Coding", "Fira Code", monospace !important;
   font-size: 0.9em !important;
   line-height: 1.6 !important;
-  background-color: #D3D3D3 !important;
   display: block !important;
   padding: 1.2em 1.5em !important;
   white-space: pre-wrap !important;
@@ -62,7 +62,7 @@ pre[class*="language-"] code {
 :not(pre) > code {
   font-family: "D2Coding", "Fira Code", monospace !important;
   font-size: 0.9em !important;
-  background-color: #D3D3D3 !important;
+  background-color: #808080 !important;
   padding: 0.2em 0.4em;
   border-radius: 4px;
 }
