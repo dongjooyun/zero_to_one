@@ -42,6 +42,20 @@ h3 {
   font-size: 1.17em !important;
 }
 
+// pre, code {
+//   font-size: 0.9em; /* 예시: 현재 글꼴 크기보다 0.9배 작게 */
+// }
+
+pre code {
+  font-size: 0.9em;
+}
+
+:not(pre) > code {
+  font-size: 0.9em; /* 본문 텍스트보다 살짝 작게 */
+  padding: 0.2em 0.4em; /* 인라인 코드 주변에 패딩 추가 */
+  border-radius: 3px; /* 모서리 둥글게 */
+}
+
 code {
   font-size: 14px;
 }
