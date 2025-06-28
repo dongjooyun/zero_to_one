@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T00:20:00.379+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T01:01:55.579+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
@@ -20,6 +20,7 @@
 
 - [[first_step\|first_step]]
 - [[BOJ_1764\|BOJ_1764]]
+- [[BOJ_1620\|BOJ_1620]]
 ---
 
 > 새로운 글은 상시 추가될 예정입니다.  
