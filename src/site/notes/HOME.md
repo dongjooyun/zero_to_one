@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T01:01:55.579+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T01:03:48.670+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
@@ -8,6 +8,7 @@
 > *Hello World, I'm Miss.Digita1p0et.*
 > 지속 가능하도록 고민하는 사람
 > 베스트 솔루션에 다가가는 사람
+> 👩‍🔧
 > 
 >
 > <img src="/img/Mr.greedy.png" width="250" alt="Mr.greedy" />
@@ -25,4 +26,4 @@
 
 > 새로운 글은 상시 추가될 예정입니다.  
 > 궁금한 점은 언제든 댓글로 남겨주세요! (댓글란 아직 정비 중)
-> ※ 블로그 상시 공사 중 - CSS가 엉성하니 양해 부탁드립니다.
+> ※ 블로그 상시 공사 중 🔧 CSS가 엉성하니 양해 부탁드립니다.
