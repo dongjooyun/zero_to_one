@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T01:11:43.941+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T01:13:04.826+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
@@ -7,7 +7,7 @@
 > [!note] **Introducing Myself**
 > *Hello World, This is Miss.Digita1p0et.*
 > 지속 가능하도록 고민하는 사람
-> 베스트 솔루션에 다가가는 사람
+> 스스로 만족할 때까지 개선해내는 사람
 ><br>
 > <img src="/img/Mr.greedy.png" width="250" alt="Mr.greedy" />
 
