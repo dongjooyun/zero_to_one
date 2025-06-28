@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T01:13:04.826+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-06-29T01:15:04.012+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
@@ -24,4 +24,4 @@
 
 > 새로운 글은 상시 추가될 예정입니다.  
 > 궁금한 점은 언제든 댓글로 남겨주세요! (댓글란 아직 정비 중)
-> ※ 블로그 상시 공사 중 🔧 CSS가 엉성하니 양해 부탁드립니다.
+>⚠️ 블로그 상시 공사 중 🔧 CSS가 엉성하니 양해 부탁드립니다.
