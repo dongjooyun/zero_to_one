@@ -31,18 +31,15 @@ h1 {
     height: 32px;
     width: auto;
     margin-right: 0.5em;
-    // vertical-align: middle;
   }
 }
 
 h1::before {
   margin-right: 0.25em;
-  // vertical-align: middle;
 }
 
 ul li a::before {
   margin-right: 0.25em;
-  // vertical-align: middle;
 }
 
 h2 {
@@ -121,6 +118,14 @@ strong {
 
 .gsc-reactions > div > details > summary {
   margin-top: 1.5rem;
+}
+
+.navbar-inner > span > svg {
+  margin-left: 1rem;
+}
+
+#link-graph > div {
+  margin-bottom: 2.5rem;
 }
 
 @media screen and (max-width: 768px) {
