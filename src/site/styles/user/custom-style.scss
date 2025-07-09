@@ -94,6 +94,7 @@ strong {
   margin: 2rem auto;
   padding: 0 1rem;
   box-sizing: border-box;
+  margin-top: 3rem;
 }
 
 /* Giscus iframe 스타일링 */
@@ -103,6 +104,11 @@ strong {
   margin: 0 auto;
   box-sizing: border-box;
   border: none;
+}
+
+/* gsc-reactions summary 잘림 방지 */
+.gsc-reactions > div > details > summary {
+  margin-top: 1.5rem;
 }
 
 /* 모바일 환경 대응 */
