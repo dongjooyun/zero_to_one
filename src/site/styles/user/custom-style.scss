@@ -31,18 +31,18 @@ h1 {
     height: 32px;
     width: auto;
     margin-right: 0.5em;
-    vertical-align: middle;
+    // vertical-align: middle;
   }
 }
 
 h1::before {
   margin-right: 0.25em;
-  vertical-align: middle;
+  // vertical-align: middle;
 }
 
 ul li a::before {
   margin-right: 0.25em;
-  vertical-align: middle;
+  // vertical-align: middle;
 }
 
 h2 {
