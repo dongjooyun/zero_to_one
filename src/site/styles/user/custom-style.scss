@@ -1,7 +1,6 @@
 /* 가변 폰트용 CSS import */
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.css");
 
-/* body 및 주요 요소에 폰트와 합성 방지 속성 적용 */
 body,
 div,
 button,
@@ -36,6 +35,16 @@ h1 {
   }
 }
 
+h1::before {
+  margin-right: 0.5em;
+  vertical-align: middle;
+}
+
+ul li a::before {
+  margin-right: 0.5em;
+  vertical-align: middle;
+}
+
 h2 {
   margin-top: 1.5em !important;
   margin-bottom: 0.5em !important;
@@ -67,7 +76,6 @@ pre[class*="language-"] code {
   background-color: #353e43 !important;
 }
 
-/* pre 태그 하위 code 폰트 크기 강제 적용 */
 pre code {
   font-size: 13px !important;
 }
@@ -94,7 +102,6 @@ strong {
   font-weight: 800;
 }
 
-/* giscus 댓글 영역 스타일링 */
 .giscus {
   max-width: min(100%, 720px);
   width: 100%;
@@ -104,7 +111,6 @@ strong {
   margin-top: 3rem;
 }
 
-/* Giscus iframe 스타일링 */
 .giscus iframe.giscus-frame {
   width: 100% !important;
   max-width: 100% !important;
@@ -113,12 +119,10 @@ strong {
   border: none;
 }
 
-/* gsc-reactions summary 잘림 방지 */
 .gsc-reactions > div > details > summary {
   margin-top: 1.5rem;
 }
 
-/* 모바일 환경 대응 */
 @media screen and (max-width: 768px) {
   .giscus {
     padding: 0 0.5rem;
