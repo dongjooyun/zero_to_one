@@ -57,12 +57,17 @@ pre[class*="language-"] {
 
 pre[class*="language-"] code {
   font-family: "D2Coding", "Fira Code", monospace !important;
-  font-size: 0.9em !important;
+  font-size: 13px !important;
   line-height: 1.6 !important;
   display: block !important;
   white-space: pre-wrap !important;
   word-break: break-word !important;
   background-color: #353e43 !important;
+}
+
+/* pre 태그 하위 code 폰트 크기 강제 적용 */
+pre code {
+  font-size: 13px !important;
 }
 
 :not(pre) > code {
