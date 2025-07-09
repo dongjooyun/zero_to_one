@@ -104,7 +104,10 @@ strong {
   margin: 2rem auto;
   padding: 0 1rem;
   box-sizing: border-box;
-  margin-top: 0 !important;
+
+  body {
+    margin-top: 4rem;
+  }
 }
 
 .giscus iframe.giscus-frame {
@@ -113,19 +116,6 @@ strong {
   margin: 0 auto;
   box-sizing: border-box;
   border: none;
-}
-
-.gsc-reactions > div > details > summary {
-  margin-top: 1.5rem;
-}
-
-.gsc-reactions {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
-}
-
-.gsc-comments {
-  margin-top: 0 !important;
 }
 
 .navbar-inner > span > svg {
