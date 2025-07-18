@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-07-18T15:59:22.749+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-07-18T16:17:32.991+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
@@ -20,9 +20,10 @@
 ## 📂 Algorithm
 - [[BOJ_1764\|BOJ_1764]]
 - [[BOJ_1620\|BOJ_1620]]
+- [[BOJ_11403\|BOJ_11403]]
 
 ## 📂 Latest
-- [[BOJ_1620\|BOJ_1620]]
+- [[BOJ_11403\|BOJ_11403]]
 
 ---
 
