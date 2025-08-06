@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-08-04T14:33:16.439+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-08-06T14:46:45.109+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
 
 > [!note] **Introducing Myself**
-> *Miss.Digita1p0et*
+> *Ms.Digita1p0et*
 > 지속 가능하도록 고민하는 사람
 >
 ><br>
@@ -14,17 +14,13 @@
 개발 관련 시행착오 흔적들을 기록하는 공간입니다.
 아래에서 카테고리별로 글을 찾아볼 수 있습니다.
 
-## 📂 Posts
-- [[first_step\|first_step]]
-
-## 📂 Algorithm
-- [[BOJ_1764\|BOJ_1764]]
-- [[BOJ_1620\|BOJ_1620]]
-- [[BOJ_11403\|BOJ_11403]]
-- [[BOJ_1929\|BOJ_1929]]
-
 ## 📂 Latest
-- [[BOJ_1929\|BOJ_1929]]
+- [[BOJ_2437\|BOJ_2437]]
+
+## 📂 [[Posts\|Posts]]
+
+## 📂 [[Algorithms\|Algorithms]]
+
 
 ---
 
