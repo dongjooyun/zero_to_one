@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/algorithms/","title":"Algorithms","noteIcon":"2","created":"2025-08-06T14:45:17.795+09:00","updated":"2025-08-09T00:30:09.680+09:00"}
+{"dg-publish":true,"permalink":"/algorithms/","title":"Algorithms","noteIcon":"2","created":"2025-08-06T14:45:17.795+09:00","updated":"2025-08-09T00:59:05.073+09:00"}
 ---
 
-> [!note] 각종 코테용 알고리즘 문풀 모음집
+> [!note] 코테 대비 알고리즘 문제 풀이 모음집
 아래에서 해당 카테고리 글을 찾아볼 수 있습니다.
 
 ## 📂 Algorithms
