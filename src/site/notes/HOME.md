@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-08-06T14:46:45.109+09:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Zero to One","tags":["gardenEntry"],"noteIcon":"3","created":"2025-05-27T13:25:46.129+09:00","updated":"2025-08-09T00:49:29.625+09:00"}
 ---
 
 # 👋 Welcome to My Testbed
@@ -15,7 +15,7 @@
 아래에서 카테고리별로 글을 찾아볼 수 있습니다.
 
 ## 📂 Latest
-- [[BOJ_2437\|BOJ_2437]]
+- [[BOJ_18126\|BOJ_18126]]
 
 ## 📂 [[Posts\|Posts]]
 
