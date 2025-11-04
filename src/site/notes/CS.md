@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cs/","title":"CS","noteIcon":"2","created":"2025-11-05T00:08:41.668+09:00","updated":"2025-11-05T01:44:09.117+09:00"}
+{"dg-publish":true,"permalink":"/cs/","title":"CS","noteIcon":"2","created":"2025-11-05T00:08:41.668+09:00","updated":"2025-11-05T01:58:52.399+09:00"}
 ---
 
 > [!note] 면접 대비 CS 개념 정리집
@@ -9,7 +9,7 @@
 
 ## 📂 [[ISTQB\|ISTQB]]
 
-## 📂 [[SE\|SE]] (SW Enginering)
+## 📂 [[SE\|SE]]
 ---
 
 > 새로운 글은 상시 추가될 예정입니다.  

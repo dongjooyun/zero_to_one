@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/se/","title":"Software Engineering","noteIcon":"2","created":"2025-11-05T00:30:38.255+09:00","updated":"2025-11-05T00:31:12.599+09:00"}
+{"dg-publish":true,"permalink":"/se/","title":"Software Engineering","noteIcon":"2","created":"2025-11-05T00:30:38.255+09:00","updated":"2025-11-05T01:59:04.846+09:00"}
 ---
 
-> [!note] 면접 대비 SE 개념 정리집
+> [!note] 면접 대비 소프트웨어공학 개념 정리집
 아래에서 해당 카테고리 글을 찾아볼 수 있습니다.
 
 ## 📂 SE
