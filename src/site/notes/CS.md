@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/cs/","title":"CS","noteIcon":"2","created":"2025-11-05T00:08:41.668+09:00","updated":"2025-11-05T02:01:27.074+09:00"}
+{"dg-publish":true,"permalink":"/cs/","title":"CS","noteIcon":"2","created":"2025-11-05T00:08:41.668+09:00","updated":"2025-11-05T02:06:28.150+09:00"}
 ---
 
 > [!note] 면접 대비 CS 개념 정리집
 아래에서 하위 카테고리 글을 찾아볼 수 있습니다.
 
 ## 📂 [[Network\|Network]]
+
 ## 📂 [[ISTQB\|ISTQB]]
+
 ## 📂 [[SE\|SE]]
+
 ---
 
 > 새로운 글은 상시 추가될 예정입니다.  
